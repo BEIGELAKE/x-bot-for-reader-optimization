@@ -1,0 +1,6 @@
+tweepy==4.12.1
+cohere==2.0.0
+googletrans==4.0.0rc1
+requests==2.31.0
+python-dotenv==1.0.0
+cryptography==41.0.1

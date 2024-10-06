@@ -1,0 +1,17 @@
+2024-10-05 16:36:52,537 - INFO - Twitter bot started
+2024-10-05 16:40:50,475 - INFO - Twitter bot started
+2024-10-05 16:40:51,070 - ERROR - Forbidden error: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
+2024-10-05 16:40:51,070 - INFO - Twitter bot completed cycle
+2024-10-05 16:42:16,534 - INFO - Twitter bot started
+2024-10-05 16:42:17,144 - ERROR - Forbidden error: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
+2024-10-05 16:42:17,144 - INFO - Twitter bot completed cycle
+2024-10-05 16:57:19,835 - INFO - Twitter bot started
+2024-10-05 16:57:20,422 - ERROR - Forbidden error: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
+2024-10-05 16:57:20,423 - INFO - Twitter bot completed cycle
+2024-10-05 17:00:12,299 - INFO - Twitter bot started
+2024-10-05 17:00:12,991 - ERROR - Forbidden error: 403 Forbidden
+453 - You currently have access to a subset of Twitter API v2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.twitter.com/en/portal/product
+2024-10-05 17:00:12,991 - INFO - Twitter bot completed cycle
